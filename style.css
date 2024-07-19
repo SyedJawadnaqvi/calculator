@@ -1,0 +1,71 @@
+h1{
+    text-align: center;
+}
+.box{
+    display: flex;
+    justify-content: center;
+}
+.xzs{
+    background-color: gray;
+    height: 428px;
+    width: 380px;
+    text-align: end;
+    border: 1px solid rgb(66, 65, 65);
+}
+.box1{
+    background-color: rgb(185, 181, 145);
+    height: 70px;
+    width: 370px;
+    position: absolute;
+    margin: 5px;
+    border-radius: 5px;
+
+}
+.box2{
+    background-color: rgb(80, 85, 88);
+    height: 40px;
+    width: 70px;
+    display: inline-block;
+    text-align: center;
+    padding-top: 25px;
+    margin: 1px;
+    border-radius: 5px;
+
+}
+.box3
+{
+    
+        background-color: rgb(247, 108, 15);
+        height: 108px;
+        width: 70px;
+        display: inline-block;
+        text-align: center;
+        padding-top: 25px;
+        margin: 1px;
+        border-radius: 5px;
+
+    
+   
+}
+.box4{
+    
+        background-color: rgb(80, 85, 88);
+        height: 40px;
+        width: 70px;
+        display: inline-block;
+        text-align: center;
+        padding-top: 25px;
+        margin: 1px;
+        position: relative;
+        bottom: 68px;
+        right: 76px;
+        border-radius: 5px;
+
+        
+    
+}
+#jawad{
+    background-color:rgba(247, 247, 246, 0.301);
+
+    
+}
